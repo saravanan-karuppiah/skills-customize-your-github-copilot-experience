@@ -19,4 +19,4 @@ This project is an educational website for sharing homework assignments and codi
 When generating content for this project:
 
 - **Learning-focused**: All content should be designed with clear learning objectives and appropriate difficulty levels
-- **Student-friendly**: Use clear, encouraging language that motivates students
+- **Student-friendly**: Use clear, encouraging language that motivate
