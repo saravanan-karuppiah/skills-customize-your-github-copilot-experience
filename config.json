@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "secure-fastapi-authentication",
+      "title": "Secure a FastAPI API with Authentication",
+      "description": "Add password authentication and protected bearer-token routes to a FastAPI book API.",
+      "path": "assignments/secure-fastapi-authentication",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
